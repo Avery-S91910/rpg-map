@@ -30,25 +30,6 @@ namespace myImages {
 ........................
 ........................
 `;
-            case "image1":
-            case "NPC2":return img`
-. . . . . . b . b . . . . . . . 
-. . . . . f b b b f f . . . . . 
-. . . . f 4 b 9 b 4 a f . . . . 
-. . . f 4 a a a a a 4 a f . . . 
-. . . f a a f f f f a 4 f . . . 
-. . . f a f f 5 5 f f a f . . . 
-. . f a f 5 f 5 5 f 5 f a f . . 
-. . f a f 5 e 5 5 e 5 f a f . . 
-. . f a a f 5 5 5 5 f a a f . . 
-. f a a f e f f f f e f a a f . 
-. . f f 5 e 9 e e 9 e 5 f f . . 
-. . f 5 5 f e 9 9 e f 5 5 f . . 
-. . . f f e e e e e e f f . . . 
-. . . f e e 9 e e 9 e e f . . . 
-. . . f f f f f f f f f f . . . 
-. . . . . f f . . f f . . . . . 
-`;
             case "image2":
             case "NPC3":return img`
 . . f f f . . . . . . . . f f f 
@@ -67,6 +48,23 @@ f a a a a a a a a a a f c c . .
 . f a a a a a a a a c f . . . . 
 . . f a a a a a a c f . . . . . 
 . . . f f f f f f f . . . . . . 
+`;
+            case "image1":
+            case "NPC1":return img`
+e e e . . . . e e e . . . . 
+c d d c . . c d d c . . . . 
+c b d d f f d d b c . . . . 
+c 3 b d d b d b 3 c . . . . 
+f b 3 d d d d 3 b f . . . . 
+e d d d d d d d d e . . . . 
+e d f d d d d f d e . b f b 
+f d d f d d f d d f . f d f 
+f b d d b b d d 2 f . f d f 
+. f 2 2 2 2 2 2 b b f f d f 
+. f b d d d d d d b b d b f 
+. f d d d d d b d d f f f . 
+. f d f f f d f f d f . . . 
+. f f . . f f . . f f . . . 
 `;
         }
         return null;

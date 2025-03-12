@@ -4,15 +4,15 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "sprite"
     },
-    "image1": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwAAAAAAAA/6//AAAA8P+qql//DwBPqv/6Ve8P8KT6Ve/+7v+7q//v9eme/7CpX1X1nu4Pu6tfVfWe7g/wpP/v9eme//BK+lXv/u7/AK+k//pV7w8A8P+qql//DwAAAP+v/wAAAAAAAPAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "NPC2"
-    },
     "image2": {
         "data": "hwQQABAAAAAA//8PwPwPAPDP/8+sqvoA//zPqq7sqg/PzNytqvqq+s8AzKqq+qr6AADArKr6qvoAANytruyq+gAAzKqqqqr6AADAzKqqqvoAAP+vrKqq/AD/rKrMqsoP8KzKzMz//wDAyqrMDMAMAK/KrMoAAAwAr8zMDAAAAADPAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "NPC3"
+    },
+    "image1": {
+        "data": "hwQOAA4AAADOzO/+DwAAAN472937//8A3r3T3y3b/QDA3d39Ld0PAADf3d0r3Q8AAL/d3Svd/wDA3d39Ld39AN69098tvQ8A3jvb3bLdDwDOzO/+v9v9AAAAAADw+/8AAAAA+//9AAAAAADf3fsAAAAAAPv/DwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "NPC1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
